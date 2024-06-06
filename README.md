@@ -17,7 +17,7 @@
 ### About me :
 I'm a backend developer with little experience with frontend.
 I'm from Denmark 🇩🇰
-- I develop custom backend forwebsite and desktop
+- I develop custom backend for website and desktop
 - I like to work in different languages to solve problems
 - In my free time i like to work on my own projects and learn new technologies
 - One of my interessests is solving problems
