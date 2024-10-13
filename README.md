@@ -14,9 +14,9 @@
 </div>
 
 ### About me :
-I'm a backend developer with some experince in frontend, mostly using svelte or vanilla html, css and javascript.
-I'm from Denmark 🇩🇰
-I mostly worked on backend development for websites, mobile and desktop. Part of my exam was making an backend for an game wioth my group.
+I'm a backend developer with some experince in frontend, mostly using svelte or vanilla html, css and javascript.\
+I'm from Denmark 🇩🇰\
+I mostly worked on backend development for websites, mobile and desktop. Part of my exam was making an backend for an game wioth my group.\
 I also make some cli and system services to get an better understanding of how things work, and makes cross-platform easier.
 - I like to work in different languages to solve problems
 - In my free time i like to work on my own projects and learn new technologies
