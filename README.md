@@ -1,8 +1,7 @@
 
 <div id="header" align="center">
-	  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
 	<div id="badges">
-	  <a href="www.linkedin.com/in/niclas-hjulmand-a14893185">
+	  <a href="www.linkedin.com/in/niclas-hjulmand">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	  </a>
 	  <a href="https://twitter.com/NHjulmand">
@@ -10,17 +9,18 @@
 	  </a>
 	</div>
 	<h1>
-	Welcome to code park
+	Welcome please look around and contribute if something looks fun
 	</h1>
 </div>
 
 ### About me :
-I'm a backend developer with little experience with frontend.
+I'm a backend developer with some experince in frontend, mostly using svelte or vanilla html, css and javascript.
 I'm from Denmark 🇩🇰
-- I develop custom backend for website and desktop
+I mostly worked on backend development for websites, mobile and desktop. Part of my exam was making an backend for an game wioth my group.
+I also make some cli and system services to get an better understanding of how things work, and makes cross-platform easier.
 - I like to work in different languages to solve problems
 - In my free time i like to work on my own projects and learn new technologies
-- One of my interessests is solving problems
+- I like learning nerdy subjects and understading how things actually works
 
 ---
 Knowledge :
